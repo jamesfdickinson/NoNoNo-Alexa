@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "intent": "ActionIntent",
+      "slots": [
+        {
+          "name": "ACTION",
+          "type": "LITERAL"
+        }
+      ]
+    }
+    
+  ]
+}
