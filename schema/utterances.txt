@@ -1,9 +1,16 @@
-ActionIntent	{yes|ACTION}
+
+ActionIntent	{no no no|ACTION}
+ActionIntent	{Yes you can|ACTION}
+ActionIntent	{Do your chores|ACTION}
+ActionIntent	{dont't do it|ACTION}
+ActionIntent	{Come here|ACTION}
+ActionIntent	{Eat your food now|ACTION}
+
 ActionIntent	{yes yes|ACTION}
 ActionIntent	{yes yes yes|ACTION}
 ActionIntent	{yes yes yes yes|ACTION}
 ActionIntent	{yes yes yes yes yes|ACTION}
-ActionIntent	{no|ACTION}
+
 ActionIntent	{no no|ACTION}
 ActionIntent	{no no no|ACTION}
 ActionIntent	{no no no no|ACTION}
@@ -11,33 +18,33 @@ ActionIntent	{no no no no no|ACTION}
 
 ActionIntent	{no yes|ACTION}
 
-ActionIntent	{no yes no|ACTION}
+ActionIntent	{no can no|ACTION}
 ActionIntent	{no yes no no|ACTION}
 ActionIntent	{no yes no yes|ACTION}
 
 ActionIntent	{no yes yes|ACTION}
-ActionIntent	{no yes yes no|ACTION}
+ActionIntent	{no can't yes no|ACTION}
 ActionIntent	{no yes yes yes|ACTION}
 
 ActionIntent	{no no|ACTION}
 
-ActionIntent	{no no no|ACTION}
-ActionIntent	{no no no no|ACTION}
-ActionIntent	{no no no yes|ACTION}
+ActionIntent	{no up no|ACTION}
+ActionIntent	{no will no no|ACTION}
+ActionIntent	{no won't no yes|ACTION}
 
-ActionIntent	{no no yes|ACTION}
-ActionIntent	{no no yes no|ACTION}
+ActionIntent	{no now yes|ACTION}
+ActionIntent	{no never yes no|ACTION}
 ActionIntent	{no no yes yes|ACTION}
 
 
 
 ActionIntent	{yes no|ACTION}
 
-ActionIntent	{yes no yes|ACTION}
+ActionIntent	{yes mine yes|ACTION}
 ActionIntent	{yes no yes yes|ACTION}
 ActionIntent	{yes no yes no|ACTION}
 
-ActionIntent	{yes no no|ACTION}
+ActionIntent	{yes your no|ACTION}
 ActionIntent	{yes no no yes|ACTION}
 ActionIntent	{yes no no no|ACTION}
 
@@ -46,7 +53,3 @@ ActionIntent	{yes yes|ACTION}
 ActionIntent	{yes yes yes|ACTION}
 ActionIntent	{yes yes yes yes|ACTION}
 ActionIntent	{yes yes yes no|ACTION}
-
-ActionIntent	{yes yes no|ACTION}
-ActionIntent	{yes yes no yes|ACTION}
-ActionIntent	{yes yes no no|ACTION}
